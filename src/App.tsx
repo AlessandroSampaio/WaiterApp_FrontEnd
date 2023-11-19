@@ -1,4 +1,5 @@
 import { Header } from './components/Header/';
+import Orders from './components/Orders/index.tsx';
 import { GlobalStyles } from './styles/GlobalStyles.ts';
 
 export function App() {
@@ -6,6 +7,7 @@ export function App() {
     <>
       <GlobalStyles />
       <Header />
+      <Orders />
     </>
   );
 }
