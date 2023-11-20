@@ -15,6 +15,15 @@ const orders : Order[] = [
           'price': 40,
         },
         'quantity': 3,
+        '_id': '655a5d14c46e4013ff08f39a'
+      },
+      {
+        'product': {
+          'name': 'Pizza quatro queijos',
+          'imagePath': '1700412044817-quatro-queijos.png',
+          'price': 30,
+        },
+        'quantity': 1,
         '_id': '655a5d14c46e4013ff08f39d'
       },
     ],
